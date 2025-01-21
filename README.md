@@ -1,2 +1,2 @@
 # Power-BI-Dashboards
-Power BI Dashboards
+Amazon Sales Data Analytics
